@@ -1,0 +1,12 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7.0
+  - rdkit
+  - pip
+  - pip:
+    - tensorflow==2.3.*
+    - deepchem
+    - seldon-core
+name: solubility-predictor

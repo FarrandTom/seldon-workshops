@@ -1,0 +1,4 @@
+MODEL_NAME=SolubilityPredictor
+SERVICE_TYPE=MODEL
+PERSISTENCE=0
+CONDA_ENV_NAME=solubility-predictor
