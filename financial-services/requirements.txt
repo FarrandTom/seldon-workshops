@@ -1,0 +1,10 @@
+jupyter
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+xgboost
+seldon-deploy-sdk
+alibi
+alibi-detect
