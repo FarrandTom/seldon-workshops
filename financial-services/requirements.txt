@@ -8,3 +8,5 @@ xgboost
 seldon-deploy-sdk
 alibi
 alibi-detect
+dill
+graphviz
